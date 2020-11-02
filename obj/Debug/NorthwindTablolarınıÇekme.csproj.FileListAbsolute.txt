@@ -1,0 +1,15 @@
+C:\Users\pence\source\repos\NorthwindTablolarınıÇekme\NorthwindTablolarınıÇekme\bin\Debug\NorthwindTablolarınıÇekme.exe.config
+C:\Users\pence\source\repos\NorthwindTablolarınıÇekme\NorthwindTablolarınıÇekme\bin\Debug\NorthwindTablolarınıÇekme.exe
+C:\Users\pence\source\repos\NorthwindTablolarınıÇekme\NorthwindTablolarınıÇekme\bin\Debug\NorthwindTablolarınıÇekme.pdb
+C:\Users\pence\source\repos\NorthwindTablolarınıÇekme\NorthwindTablolarınıÇekme\obj\Debug\NorthwindTablolarınıÇekme.csprojAssemblyReference.cache
+C:\Users\pence\source\repos\NorthwindTablolarınıÇekme\NorthwindTablolarınıÇekme\obj\Debug\NorthwindTablolarınıÇekme.Form1.resources
+C:\Users\pence\source\repos\NorthwindTablolarınıÇekme\NorthwindTablolarınıÇekme\obj\Debug\NorthwindTablolarınıÇekme.Properties.Resources.resources
+C:\Users\pence\source\repos\NorthwindTablolarınıÇekme\NorthwindTablolarınıÇekme\obj\Debug\NorthwindTablolarınıÇekme.csproj.GenerateResource.cache
+C:\Users\pence\source\repos\NorthwindTablolarınıÇekme\NorthwindTablolarınıÇekme\obj\Debug\NorthwindTablolarınıÇekme.csproj.CoreCompileInputs.cache
+C:\Users\pence\source\repos\NorthwindTablolarınıÇekme\NorthwindTablolarınıÇekme\obj\Debug\NorthwindTablolarınıÇekme.exe
+C:\Users\pence\source\repos\NorthwindTablolarınıÇekme\NorthwindTablolarınıÇekme\obj\Debug\NorthwindTablolarınıÇekme.pdb
+C:\Users\pence\source\repos\NorthwindTablolarınıÇekme\NorthwindTablolarınıÇekme\bin\Debug\EntityFramework.dll
+C:\Users\pence\source\repos\NorthwindTablolarınıÇekme\NorthwindTablolarınıÇekme\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pence\source\repos\NorthwindTablolarınıÇekme\NorthwindTablolarınıÇekme\bin\Debug\EntityFramework.xml
+C:\Users\pence\source\repos\NorthwindTablolarınıÇekme\NorthwindTablolarınıÇekme\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pence\source\repos\NorthwindTablolarınıÇekme\NorthwindTablolarınıÇekme\obj\Debug\NorthwindTablolarınıÇekme.csproj.CopyComplete
